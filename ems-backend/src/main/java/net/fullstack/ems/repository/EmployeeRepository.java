@@ -1,5 +1,6 @@
 package net.fullstack.ems.repository;
 
+
 import net.fullstack.ems.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 

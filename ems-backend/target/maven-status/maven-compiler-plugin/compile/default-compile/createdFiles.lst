@@ -1,4 +1,9 @@
+net\fullstack\ems\dto\EmployeeDto.class
 net\fullstack\ems\service\impl\EmployeeServiceImpl.class
 net\fullstack\ems\mapper\EmployeeMapper.class
 net\fullstack\ems\repository\EmployeeRepository.class
+net\fullstack\ems\controller\EmployeeController.class
 net\fullstack\ems\exception\ResourceNotFoundException.class
+net\fullstack\ems\service\EmployeeService.class
+net\fullstack\ems\EmsBackendApplication.class
+net\fullstack\ems\entity\Employee.class
